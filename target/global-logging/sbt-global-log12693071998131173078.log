@@ -1,0 +1,19 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(__runWatch console0, Some(8ea80b1d-5016-4e71-9810-3c2d2fcac4fd), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(sbtStashOnFailure, None, Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(__preWatch console0, None, Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(run Console.scala, None, Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Compile / run[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to /Users/neeharikakandikattu/Documents/SJSU/Spring2022/CS152/CS152Labs/target/scala-3.1.1/classes ...[0m
+[0m[[0m[0minfo[0m] [0m[0mdone compiling[0m
+[0m[[0m[33mwarn[0m] [0m[0mCanceling execution...[0m
+[0m[[0m[0mdebug[0m] [0m[0mForcing garbage collection...[0m
+[0m[[0m[31merror[0m] [0m[0mCancelled: run Console.scala[0m
+[0m[[0m[31merror[0m] [0m[0mCancelled: run Console.scala[0m
+[0m[[0m[31merror[0m] [0m[0mUse 'last' for the full log.[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(resumeFromFailure, None, Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(sbtPopOnFailure, None, Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(__postWatch console0, None, Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(resumeFromFailure, None, None)[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(__waitWatch console0, None, None)[0m
+[0m[[0m[0minfo[0m] [0m[0mshutting down sbt server[0m
