@@ -1,0 +1,3 @@
+def exp2 = lambda (n) { def result = var(1); def count = var(0); while([count] < n) { count := [count] + 1; result := 2 * [result] }; [result] }
+
+def rem = lambda(n, m) if (m < n) n - m * (n / m) else m - n * (m / n)
